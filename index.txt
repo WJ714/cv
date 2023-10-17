@@ -2,30 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Weijie Zhang
+Weijie Zhang
+Eco-Hydrologist / data scientist
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+wzhang@bgc-jena.mpg.de
 
 Location
-Sacramento, California, USA
+Jena, Germany
 
 # navbar
 
-About
+Research Interests
 Resume
-Portfolio
-Blog
+Publications
 Contact
 
 # about
